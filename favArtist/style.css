@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+}
+
+p {
+    text-align: center;
+}  
+div {
+    width: 500px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+p 
