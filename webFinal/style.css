@@ -2,6 +2,10 @@
     font-family: 'Major Mono Display', monospace;
     color: #FF3B3F;
     background: #EFEFEF !important;
+    font-size: 200px !important;
+}
+#jumbo{
+    font-size: 90px;
 }
 .nav {
     background: #A9A9A9;
@@ -21,6 +25,7 @@
     font-family: 'Poppins', sans-serif;
     color: #CAEBF2;
     font-size: 30px;
+    
 }
 #center img {
     text-align: center;
